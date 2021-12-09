@@ -1,6 +1,7 @@
 # iOS_tip
 
-1. # 앱을 💕⭐️💚❤️예쁘게⭐️❤️☀️💙💕종료시키기
+1. 앱을 💕⭐️💚❤️예쁘게⭐️❤️☀️💙💕종료시키기
+
 출처: https://zeddios.tistory.com/1252 [ZeddiOS]
 
 UIApplication.shared.perform(#selector(NSXPCConnection.suspend)) 
