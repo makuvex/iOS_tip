@@ -38,3 +38,7 @@ https://zeddios.tistory.com/1104
 
 https://zeddios.tistory.com/1065
 
+
+7. Remote Push Notifications in Simulator
+
+출처: https://zeddios.tistory.com/954 [ZeddiOS]
