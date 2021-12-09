@@ -22,3 +22,8 @@ https://zeddios.tistory.com/1197
 3. ribs 어서오세요 RIBs입니다. 카카오페이 비즈니스앱 개발기
 
 https://if.kakao.com/2020/session/80
+
+
+4. iOS ) UIVisualEffect (Blur, Vibrancy)
+
+출처: https://zeddios.tistory.com/1140 [ZeddiOS]
