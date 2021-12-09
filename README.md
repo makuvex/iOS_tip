@@ -33,3 +33,8 @@ https://if.kakao.com/2020/session/80
 
 https://zeddios.tistory.com/1104
 
+
+6. 클린 아키텍쳐
+
+https://zeddios.tistory.com/1065
+
